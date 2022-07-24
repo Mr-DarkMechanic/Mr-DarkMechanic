@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mr-DarkMechanic</h1>
 <h3 align="center">ℙℍ𝕆𝕋𝕆𝔾ℝ𝔸ℙℍ𝔼ℝ 📸 | 𝚂𝚎𝚌𝚞𝚛𝚒𝚝𝚢 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑𝚎𝚛 | ᗷᑌǤ ᕼᑌᑎ丅ᗴᖇ 💻 | 𝚆𝚎𝚋 𝚍𝚎𝚜𝚒𝚐𝚗𝚎𝚛</h3>
-<img align="right" alt="Hacking" whdth="400" scr="https://cdn.dribbble.com/users/1304577/screenshots/4032985/kiiwik-app-_03.gif">
+<img align="right" alt="Hacking" whdth="400" src="https://cdn.dribbble.com/users/1304577/screenshots/4032985/kiiwik-app-_03.gif">
 - 🔭 I’m currently working on **Bug Hunting , Automation tool**
 
 - 🌱 I’m currently learning **Go Lan**
