@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Go Lan**
 
-- 👨‍💻 All of my projects are available at [darkmechanic.com](darkmechanic.com)
+- 👨‍💻 All of my projects are available at [[darkmechanic.com](https://darkmechanic.com/)](darkmechanic.com)
 
 - 📝 I regularly write articles on [darkmechanic.com/blogs](darkmechanic.com/blogs)
 
